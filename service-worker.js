@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Perksysteminc/precache-manifest.6cc1ec15531d4e2a2a42e50e9cdc6e76.js"
+  "/Perksysteminc/precache-manifest.3bee45b4c588800708007bb160db6d6b.js"
 );
 
 workbox.clientsClaim();

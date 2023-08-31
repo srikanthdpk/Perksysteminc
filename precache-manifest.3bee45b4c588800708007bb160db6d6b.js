@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "3b3c98031ff7a805ef86",
-    "url": "/Perksysteminc/static/css/main.464cdb2b.chunk.css"
+    "revision": "43c052f5dc3e2abdbfc7",
+    "url": "/Perksysteminc/static/css/main.58b1445c.chunk.css"
   },
   {
-    "revision": "3b3c98031ff7a805ef86",
-    "url": "/Perksysteminc/static/js/main.3b3c9803.chunk.js"
+    "revision": "43c052f5dc3e2abdbfc7",
+    "url": "/Perksysteminc/static/js/main.43c052f5.chunk.js"
   },
   {
     "revision": "e2723de9d6e9385cbe1e",
     "url": "/Perksysteminc/static/js/1.e2723de9.chunk.js"
   },
   {
-    "revision": "52ce50198cc9c6fda0d3",
+    "revision": "1f2f43f39391dcf2e23a",
     "url": "/Perksysteminc/static/css/2.b6e711e0.chunk.css"
   },
   {
-    "revision": "52ce50198cc9c6fda0d3",
-    "url": "/Perksysteminc/static/js/2.52ce5019.chunk.js"
+    "revision": "1f2f43f39391dcf2e23a",
+    "url": "/Perksysteminc/static/js/2.1f2f43f3.chunk.js"
   },
   {
     "revision": "f8ab857ae52358b3e2b6",
@@ -72,15 +72,15 @@ self.__precacheManifest = [
     "url": "/Perksysteminc/static/media/login.d49c38cb.jfif"
   },
   {
-    "revision": "a30fb81bd52143bcd4de2898422ac8b9",
-    "url": "/Perksysteminc/static/media/bootstrap-icons.a30fb81b.woff2"
-  },
-  {
     "revision": "3d0ec57f40d62ba6a8e0d1857bb8f7d5",
     "url": "/Perksysteminc/static/media/bootstrap-icons.3d0ec57f.woff"
   },
   {
-    "revision": "c01e00fca417b63df7070c8c781de9a1",
+    "revision": "a30fb81bd52143bcd4de2898422ac8b9",
+    "url": "/Perksysteminc/static/media/bootstrap-icons.a30fb81b.woff2"
+  },
+  {
+    "revision": "a705a9f5a0716cdf6a44868a6cf44560",
     "url": "/Perksysteminc/index.html"
   }
 ];
